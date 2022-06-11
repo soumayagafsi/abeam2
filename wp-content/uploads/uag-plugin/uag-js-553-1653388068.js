@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ 			jQuery( document ).ready(function() {
+				UAGBForms.init( {"block_id":"1767dae1","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"soumaya.gafsi01@gmail.com","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Soumission du formulaire","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Veuillez remplir le captcha ci-dessus.","confirmationUrl":""}, '.uagb-block-1767dae1' );
+			});
+			 })
